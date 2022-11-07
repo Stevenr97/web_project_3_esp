@@ -8,6 +8,7 @@
   line-height: 1.2;
   font-weight: 600;
   text-decoration: none;
+  text-align: center;
 }
 .group__button:hover {
   background-color: #0063d2;
