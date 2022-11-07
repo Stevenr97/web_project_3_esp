@@ -2,7 +2,8 @@
 
 **Introducción**
 
-Main Landing page, que muestra ciudades natales de los empleados de Practicum. Para este proyecto se utilizó HTML y CSS para el Back-end. Se utilizó media querys y grid para el responsive de la pagina.
+Main Landing pageJG, que muestra ciudades natales de los empleados de Practicum. Para este proyecto se utilizó HTML y CSS para el Back-end. Se utilizó media querys y grid para el responsive de la pagina.
+Enlace a la pagina:  https://stevenr97.github.io/web_project_3_esp/
 
 **Planes Futuros para el proyecto**
 
