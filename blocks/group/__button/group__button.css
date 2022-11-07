@@ -1,0 +1,15 @@
+.group__button {
+  background-color: #0278fe;
+  border-radius: 4px;
+  padding: 13px 20px;
+  border: 0;
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 1.2;
+  font-weight: 600;
+  text-decoration: none;
+}
+.group__button:hover {
+  background-color: #0063d2;
+  cursor: pointer;
+}

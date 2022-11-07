@@ -1,0 +1,41 @@
+.place__frame {
+  margin: 48px 0px 0px 0px;
+  align-items: center;
+  border: none;
+  background-color: #0278fe;
+  width: 355px;
+  height: 48px;
+  max-height: 48px;
+  border-radius: 4px;
+  font-size: 18px;
+  grid-area: button;
+  align-self: center;
+  color: #ffffff;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  place-self: start;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 320px) and (max-width: 700px) {
+  .place__frame {
+    margin: 8px 16px 0px 16px;
+    width: 288px;
+    max-height: 48px;
+    font-size: 14px;
+    place-self: center;
+  }
+}
+
+@media screen and (min-width: 700px) and (max-width: 1000px) {
+  .place__frame {
+    margin: 8px 16px 0px 0px;
+    max-width: 315px;
+    width: 100%;
+    max-height: 22px;
+    font-size: 14px;
+    place-self: auto;
+    padding: 15px 21px;
+  }
+}
